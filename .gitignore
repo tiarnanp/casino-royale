@@ -3,3 +3,4 @@ data/users/
 data/admin.json
 .env
 *.log
+.DS_Store
